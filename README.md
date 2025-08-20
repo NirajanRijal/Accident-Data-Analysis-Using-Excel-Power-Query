@@ -15,3 +15,7 @@ Road type accident patterns
 🔧 Tools Used: Excel (Power Query, Pivot Tables, Pivot Charts, Slicers, Conditional Formatting, Icons)
 
 ![Screenshot 2025-08-19 210634](https://github.com/user-attachments/assets/1c876232-6114-4e3e-909f-2d8477973ecb)
+
+
+
+[Accident data analysis.xlsx](https://github.com/user-attachments/files/21879143/Accident.data.analysis.xlsx)
